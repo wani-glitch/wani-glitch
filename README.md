@@ -1,278 +1,237 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
- 
 <div align="center">
  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=WANI&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING&descAlignY=56&descSize=18&animation=fadeIn%22/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=YOUR%20NAME&fontSize=64&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20Python%20%E2%80%A2%20AI&descSize=22&descAlignY=58&animation=twinkling%22 width="100%"/>
  
-<a href="https://github.com/wani-glitch">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=70&lines=Python+Developer+%F0%9F%90%8D;Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Intelligent+AI+Systems+%E2%9A%A1%22 alt="Typing SVG" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&height=50&lines=Hi+there!+I%27m+a+Python+%26+ML+student+%F0%9F%91%8B;Teaching+machines+to+learn+%F0%9F%A7%A0;Training+models.+Breaking+things.+Fixing+them.;Future+AI+Engineer+%F0%9F%9A%80%22 alt="Typing animation" />
 </a>
  
-<br>
+<br/><br/>
  
-<img src="https://komarev.com/ghpvc/?username=wani-glitch&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb%22 alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/wani-glitch?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&logo=github%22 alt="Followers"/>
-<img src="https://img.shields.io/github/stars/wani-glitch?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=6366f1&logo=github%22 alt="Stars"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="45"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="45"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="45"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="45"/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="45"/>
  
-</div>
+<br/>
  
-<br>
- 
-<!-- ===================== QUICK INTRO ===================== -->
- 
-<h2 align="center">⚡ AI / ML ENGINEER ⚡</h2>
- 
-<div align="center">
- 
-`🐍 Python` • `🤖 Machine Learning` • `🧠 Deep Learning` • `👁️ Computer Vision` • `📊 Data Science` • `💬 NLP`
- 
-<br><br>
- 
-<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-Building%20AI%20Systems-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEARNING-Generative%20AI-6366F1?style=for-the-badge"/>
- 
-</div>
- 
-<br>
- 
-<!-- ===================== TECH STACK ===================== -->
- 
-<h2 align="center">🧠 AI & MACHINE LEARNING</h2>
- 
-<div align="center">
- 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI Skills"/>
- 
-<br><br>
- 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
- 
-</div>
- 
-<br>
- 
-<h2 align="center">⚙️ DEVELOPMENT ARSENAL</h2>
- 
-<div align="center">
- 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,git,github,docker,linux,vscode&theme=dark&perline=8" alt="Development Skills"/>
- 
-<br><br>
- 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
- 
-</div>
- 
-<br>
- 
-<!-- ===================== EXPERTISE ===================== -->
- 
-<h2 align="center">🔥 EXPERTISE</h2>
- 
-<div align="center">
- 
-<img src="https://img.shields.io/badge/🤖%20Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-0891B2?style=for-the-badge" alt="Computer Vision"/>
- 
-<br>
- 
-<img src="https://img.shields.io/badge/📊%20Data%20Science-0284C7?style=for-the-badge" alt="Data Science"/>
-<img src="https://img.shields.io/badge/💬%20NLP-4F46E5?style=for-the-badge" alt="NLP"/>
-<img src="https://img.shields.io/badge/⚡%20Generative%20AI-9333EA?style=for-the-badge" alt="Generative AI"/>
- 
-</div>
- 
-<br>
- 
-<!-- ===================== ML TOOLBOX ===================== -->
- 
-<h2 align="center">🤖 MACHINE LEARNING TOOLBOX</h2>
- 
-<div align="center">
- 
-<img src="https://img.shields.io/badge/Regression-ML-2563EB?style=flat-square" alt="Regression"/>
-<img src="https://img.shields.io/badge/Classification-ML-2563EB?style=flat-square" alt="Classification"/>
-<img src="https://img.shields.io/badge/Clustering-ML-2563EB?style=flat-square" alt="Clustering"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-ML-2563EB?style=flat-square" alt="Feature Engineering"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-ML-2563EB?style=flat-square" alt="Model Evaluation"/>
- 
-<br>
- 
-<img src="https://img.shields.io/badge/ANN-Deep%20Learning-7C3AED?style=flat-square" alt="ANN"/>
-<img src="https://img.shields.io/badge/CNN-Deep%20Learning-7C3AED?style=flat-square" alt="CNN"/>
-<img src="https://img.shields.io/badge/RNN-Deep%20Learning-7C3AED?style=flat-square" alt="RNN"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-Deep%20Learning-7C3AED?style=flat-square" alt="Transfer Learning"/>
- 
-<br>
- 
-<img src="https://img.shields.io/badge/Image%20Processing-Computer%20Vision-0891B2?style=flat-square" alt="Image Processing"/>
-<img src="https://img.shields.io/badge/Object%20Detection-Computer%20Vision-0891B2?style=flat-square" alt="Object Detection"/>
-<img src="https://img.shields.io/badge/Predictive%20Modeling-Data%20Science-0284C7?style=flat-square" alt="Predictive Modeling"/>
- 
-</div>
- 
-<br>
- 
-<!-- ===================== AI PIPELINE ===================== -->
- 
-<h2 align="center">⚡ AI DEVELOPMENT PIPELINE</h2>
- 
-<div align="center">
- 
-<img src="https://img.shields.io/badge/01-📊%20DATA-2563EB?style=for-the-badge"/>
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VISITORS&color=blueviolet&style=for-the-badge)
 
-➜
-&nbsp;
-<img src="https://img.shields.io/badge/02-🧹%20CLEAN-2563EB?style=for-the-badge"/>
-&nbsp;
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=0A66C2)
 
-➜
-&nbsp;
-<img src="https://img.shields.io/badge/03-⚙️%20FEATURES-4F46E5?style=for-the-badge"/>
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=F7B731)
  
-<br><br>
+</div>
  
-⬇️
+<img src="./assets/divider.svg" width="100%"/>
  
-<br><br>
+<!-- ============ LIVE NEURAL NETWORK ============ -->
+<div align="center">
+<img src="./assets/neural-network.svg" width="85%" alt="Animated neural network"/>
+</div>
  
-<img src="https://img.shields.io/badge/04-🧠%20TRAIN-7C3AED?style=for-the-badge"/>
-&nbsp;
+<img src="./assets/divider.svg" width="100%"/>
+ 
+<!-- ============ ABOUT ============ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me%22 />
+</div>
+ 
+```python
 
-➜
-&nbsp;
-<img src="https://img.shields.io/badge/05-📈%20EVALUATE-7C3AED?style=for-the-badge"/>
-&nbsp;
+class MLStudent:
 
-➜
-&nbsp;
-<img src="https://img.shields.io/badge/06-🚀%20DEPLOY-9333EA?style=for-the-badge"/>
+    def __init__(self):
+
+        self.name = "YOUR NAME"
+
+        self.location = "Pakistan 🇵🇰"
+
+        self.language = "Python 🐍"
+
+        self.learning = ["Machine Learning", "Deep Learning", "Data Science"]
+
+        self.goal = "Become an AI/ML Engineer"
+
+        self.status = "Training... epoch 42/∞"
  
+    def learn(self):
+
+        while True:
+
+            self.read_docs()
+
+            self.write_code()
+
+            self.break_things()
+
+            self.fix_things()   # loss.backward() 😅
+
+            self.grow()
+ 
+me = MLStudent()
+
+me.learn()
+
+```
+ 
+<div align="center">
+<img src="./assets/gradient-descent.gif" width="70%" alt="Linear regression learning with gradient descent"/>
+<br/>
+<sub>👆 Linear regression learning via gradient descent, animated with my own Python code</sub>
 </div>
  
-<br>
+<img src="./assets/divider.svg" width="100%"/>
  
-<!-- ===================== CURRENT FOCUS ===================== -->
+<!-- ============ TECH STACK ============ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack%22 />
  
-<h2 align="center">🎯 CURRENT FOCUS</h2>
+<br/>
+ 
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter,linux&theme=dark" />
+ 
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white%22/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"…
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</div>
+ 
+<img src="./assets/divider.svg" width="100%"/>
+ 
+<!-- ============ ROADMAP ============ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=%F0%9F%97%BA%EF%B8%8F+My+ML+Roadmap%22 />
+</div>
+ 
+| Stage | Topic | Status |
+
+|:-----:|-------|:------:|
+
+| 1 | Python Fundamentals | ✅ Done |
+
+| 2 | NumPy, Pandas, Matplotlib | ✅ Done |
+
+| 3 | Statistics & Math for ML | 🔄 In Progress |
+
+| 4 | Supervised Learning | 🔄 In Progress |
+
+| 5 | Unsupervised Learning | ⏳ Upcoming |
+
+| 6 | Deep Learning (CNNs, RNNs) | ⏳ Upcoming |
+
+| 7 | NLP & Transformers | 🎯 Planned |
+
+| 8 | Deployment (FastAPI, Streamlit) | 🎯 Planned |
  
 <div align="center">
  
-<img src="https://img.shields.io/badge/🧠%20Deep%20Learning-█████████░-7C3AED?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/🤖%20Generative%20AI-████████░░-9333EA?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/👁️%20Computer%20Vision-████████░░-0891B2?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/💬%20NLP-███████░░░-4F46E5?style=for-the-badge"/>
+![progress](https://geps.dev/progress/30)
  
 </div>
  
-<br>
+<img src="./assets/divider.svg" width="100%"/>
  
-<!-- ===================== GITHUB STATS ===================== -->
- 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
- 
+<!-- ============ PROJECTS ============ -->
 <div align="center">
- 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wani-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=6366F1&text_color=C9D1D9&rank_icon=github%22 alt="GitHub Stats"/>
- 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wani-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9%22 alt="Top Languages"/>
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7CFC00&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Featured+Projects%22 />
 </div>
  
-<br>
+| Project | Description | Tech | Link |
+
+|---------|-------------|------|:----:|
+
+| 🏠 **House Price Predictor** | Regression on housing features | `Scikit-learn` | [View](https://github.com/YOUR_USERNAME/house-price-predictor) |
+
+| 🌸 **Iris Classifier** | Classification + visualizations | `Pandas` `Matplotlib` | [View](https://github.com/YOUR_USERNAME/iris-classifier) |
+
+| 📧 **Spam Detector** | Naive Bayes text classifier | `NLP` | [View](https://github.com/YOUR_USERNAME/spam-detector) |
+
+| 🔢 **Digit Recognizer** | Neural net on MNIST | `PyTorch` | [View](https://github.com/YOUR_USERNAME/digit-recognizer) |
  
-<!-- ===================== STREAK ===================== -->
+<img src="./assets/divider.svg" width="100%"/>
  
-<h2 align="center">🔥 CODING STREAK</h2>
- 
+<!-- ============ STATS ============ -->
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GitHub+Stats%22 />
  
-<img width="70%" src="https://streak-stats.demolab.com?user=wani-glitch&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E%22 alt="GitHub Streak"/>
+<br/>
  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true%22 />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true%22 />
+ 
+<br/>
+ 
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+ 
+<br/><br/>
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7%22 />
+ 
+<br/><br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph%22 width="95%"/>
 </div>
  
-<br>
+<img src="./assets/divider.svg" width="100%"/>
  
-<!-- ===================== TROPHIES ===================== -->
- 
-<h2 align="center">🏆 GITHUB TROPHIES</h2>
- 
+<!-- ============ SNAKE + 3D ============ -->
 <div align="center">
- 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=wani-glitch&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1%22 alt="GitHub Trophies"/>
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+The+Snake+Eats+My+Commits%22 />
+<br/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg%22 width="95%" alt="snake"/>
+<br/><br/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contributions"/>
 </div>
  
-<br>
+<img src="./assets/divider.svg" width="100%"/>
  
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+<!-- ============ GOALS ============ -->
+
+## 🎯 Goals
  
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+- [x] Learn Python fundamentals
+
+- [x] Learn NumPy and Pandas
+
+- [ ] Complete 5 ML projects
+
+- [ ] Join a Kaggle competition
+
+- [ ] Finish a Deep Learning course
+
+- [ ] Deploy a model with Streamlit
+
+- [ ] Write 3 blog posts about what I learned
  
 <div align="center">
- 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wani-glitch&bg_color=0D1117&color=38BDF8&line=6366F1&point=FFFFFF&area=true&area_color=2563EB&hide_border=true%22 alt="Contribution Graph"/>
- 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
  
-<br>
+<img src="./assets/divider.svg" width="100%"/>
  
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
- 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
- 
+<!-- ============ CONTACT ============ -->
 <div align="center">
  
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wani-glitch/wani-glitch/output/github-contribution-grid-snake-dark.svg%22>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wani-glitch/wani-glitch/output/github-contribution-grid-snake.svg%22>
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/wani-glitch/wani-glitch/output/github-contribution-grid-snake.svg%22>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=%F0%9F%93%AB+Let%27s+Connect!%22 />
  
-</div>
+<br/>
  
-<br>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://kaggle.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
-<!-- ===================== CONNECT ===================== -->
+<br/><br/>
  
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+⭐ *If you like my profile, star my repos!* ⭐
  
-<div align="center">
- 
-<a href="https://github.com/wani-glitch">
-<img src="https://img.shields.io/badge/GITHUB-wani--glitch-181717?style=for-the-badge&logo=github&logoColor=white%22 alt="GitHub"/>
-</a>
- 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white%22 alt="LinkedIn"/>
-</a>
- 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
- 
-</div>
- 
-<br><br>
- 
-<!-- ===================== FOOTER ===================== -->
- 
-<div align="center">
- 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Repeat;%F0%9F%A7%A0+Turning+Data+Into+Intelligence;%F0%9F%9A%80+Building+The+Future+With+AI%22 alt="Footer Animation"/>
- 
-<br>
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2563eb,50:0f172a,100:020617&section=footer%22/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling%22 width="100%"/>
  
 </div>
  
